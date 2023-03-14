@@ -4,9 +4,9 @@ WIP Rust Bindings for [libdragon](https://github.com/DragonMinded/libdragon)
 
 Bound:
 
-- [ ] audio.h
-- [ ] console.h
-- [ ] controller.h
+- [x] audio.h
+- [x] console.h
+- [x] controller.h
 - [ ] debug.h
 - [ ] dir.h
 - [ ] display.h
